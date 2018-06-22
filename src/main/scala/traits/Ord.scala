@@ -10,7 +10,7 @@ trait Ord {
   def >= (that : Any): Boolean = !(this < that)
 }
 
-class Date(y : Int, m:Int, d: Int) extends Ord{
+class Date(y : Int, m : Int, d : Int) extends Ord{
   def year = y
   def month = m
   def day = d
