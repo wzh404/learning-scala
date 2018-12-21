@@ -1,7 +1,5 @@
 package blockchain
 
-import com.google.common.hash.Hasher
-import com.google.common.hash.Hashing
 /**
   * Created by wangzunhui on 2018/3/5.
   */
